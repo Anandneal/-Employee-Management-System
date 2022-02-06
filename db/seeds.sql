@@ -1,4 +1,4 @@
-USE employee;
+
 
 INSERT INTO department
     (name)
@@ -9,7 +9,7 @@ VALUES
     ("Legal"),
     ("Engineering");
 
-INSERT INTO role
+INSERT INTO empRole
     (title, salary, department_id)
 VALUES
     ("Sales Lead", 100000, 1),
@@ -27,6 +27,6 @@ VALUES
     ("Clint", "Barton", 2, null),
     ("Steven", "Rogers", 3, null),
     ("Jennifer", "Walters", 4, null),
-    ("Matthew", "Murdock", 5, null),
+    ("Matthew", "Murdock", 5, 4),
     ("Anthony", "Stark", 6, null),
-    ("Peter", "Parker", 7, null); 
+    ("Peter", "Parker", 7, 6); 
