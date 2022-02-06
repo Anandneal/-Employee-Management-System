@@ -1,22 +1,21 @@
 # Employee-Management-System
-Profile-Generator
-License: MIT
 
-#Description
+
+# Description
 This application makes a Employee managemtn system that allows you to track and edit information on your staff.
 
-#Installation
+# installation
 These have to be installed to run the application properly: The need to install node, npm
 
-#Usage
+# How to use
 this used in terminal/gitbash
 
 
-Video
+# Video
 [This is a video demo](https://watch.screencastify.com/v/u35CGtKZ0VWSePvzrHoB)
 
-Tests
-node index.js
+# Test
+npm start
 
-Questions
+# Questions
 If you have any questions please contact [Github](https://github.com/Anandneal) directly at : Anandneal@gmail.com.
