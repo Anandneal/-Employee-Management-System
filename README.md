@@ -13,7 +13,7 @@ this used in terminal/gitbash
 
 
 Video
-[This is a video demo](https://watch.screencastify.com/v/ZgWyKh45Y7ZxAnw7YZru)
+[This is a video demo](https://watch.screencastify.com/v/u35CGtKZ0VWSePvzrHoB)
 
 Tests
 node index.js
